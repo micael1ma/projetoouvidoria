@@ -6,6 +6,18 @@ Sistema desenvolvido durante o curso de Sistema de Informação da Unifacisa. <b
 
 <br>
 
+## 🛠️ Equipe
+
+Esse projeto foi desenvolvido com a colaboração:
+
+- Yukio Ferreira Yabuta
+- Sérgio Magno Castor Pinheiro
+- Andre Tadeu Vasconcelos Lins de Barros
+- Gustavo Tomio Magalhães Kubo
+- Thiago Limeira de Alencar
+- Ana Paula Alves Barros
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
