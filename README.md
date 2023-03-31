@@ -18,4 +18,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Projeto de Ouvidoria é um sistema para que os usuários possam colaborar com sugestões/reclamações a serem alimentados 
-em um bando de dados. Assim, a Ouvidoria terá informações de onde focar os maiores problemas em sua instituição.
+em um banco de dados. Assim, a Ouvidoria terá informações de onde focar os maiores problemas em sua instituição.
